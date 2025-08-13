@@ -57,3 +57,24 @@ Instalar las librerías necesarias ejecutando pip install -r requirements.txt. (
 Abrir y ejecutar el notebook Analisis_predictivo_enfermedades_coronarias.ipynb.
 
 Autor: Jonathan González
+
+8. Diccionario de Variables
+A continuación, se detalla el significado de las principales variables utilizadas en el análisis:
+
+Variable	                Descripción
+sex                         Género del paciente: M (masculino) o F (femenino).
+age	                        Edad del paciente.
+education               	Nivel de educación formal del paciente.
+currentSmoker           	Indica si el paciente es fumador actual (Yes o No).
+cigsPerDay	                Número de cigarrillos fumados por día.
+BPMeds	                    Si el paciente toma medicación para la presión arterial (1=Sí, 0=No).
+prevalentStroke	            Si el paciente ha tenido un accidente cerebrovascular previo (1=Sí, 0=No).
+prevalentHyp	            Si el paciente tiene hipertensión (1=Sí, 0=No).
+diabetes	                Si el paciente tiene diabetes (1=Sí, 0=No).
+totChol	                    Nivel de colesterol total en mg/dL.
+sysBP	                    Presión arterial sistólica.
+diaBP	                    Presión arterial diastólica.
+BMI                       	Índice de Masa Corporal.
+heartRate               	Frecuencia cardíaca en latidos por minuto.
+glucose                 	Nivel de glucosa en sangre.
+TenYearCHD	                Variable objetivo: Indica si el paciente desarrolló una enfermedad coronaria en 10 años (1=Sí, 0=No).
