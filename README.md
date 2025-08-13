@@ -54,6 +54,6 @@ Clonar este repositorio.
 
 Instalar las librerías necesarias ejecutando pip install -r requirements.txt. (Puedes generar este archivo con pip freeze > requirements.txt).
 
-Abrir y ejecutar el notebook PRUEBA_FINAL_DESAFIO_PYTON_ESTADISTICA (2).ipynb.
+Abrir y ejecutar el notebook Analisis_predictivo_enfermedades_coronarias.ipynb.
 
 Autor: Jonathan González
