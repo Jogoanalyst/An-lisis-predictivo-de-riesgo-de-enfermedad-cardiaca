@@ -56,4 +56,4 @@ Instalar las librerías necesarias ejecutando pip install -r requirements.txt. (
 
 Abrir y ejecutar el notebook PRUEBA_FINAL_DESAFIO_PYTON_ESTADISTICA (2).ipynb.
 
-Autor: [Tu Nombre]
+Autor: Jonathan González
